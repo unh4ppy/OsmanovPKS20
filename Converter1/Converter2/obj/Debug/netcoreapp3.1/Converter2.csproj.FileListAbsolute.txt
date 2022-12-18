@@ -1,0 +1,17 @@
+C:\Users\Лис\Desktop\Converter1\Converter2\obj\Debug\netcoreapp3.1\Converter2.csproj.AssemblyReference.cache
+C:\Users\Лис\Desktop\Converter1\Converter2\obj\Debug\netcoreapp3.1\Converter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лис\Desktop\Converter1\Converter2\obj\Debug\netcoreapp3.1\Converter2.AssemblyInfoInputs.cache
+C:\Users\Лис\Desktop\Converter1\Converter2\obj\Debug\netcoreapp3.1\Converter2.AssemblyInfo.cs
+C:\Users\Лис\Desktop\Converter1\Converter2\obj\Debug\netcoreapp3.1\Converter2.csproj.CoreCompileInputs.cache
+C:\Users\Лис\Desktop\Converter1\Converter2\bin\Debug\netcoreapp3.1\Converter2.exe
+C:\Users\Лис\Desktop\Converter1\Converter2\bin\Debug\netcoreapp3.1\Converter2.deps.json
+C:\Users\Лис\Desktop\Converter1\Converter2\bin\Debug\netcoreapp3.1\Converter2.runtimeconfig.json
+C:\Users\Лис\Desktop\Converter1\Converter2\bin\Debug\netcoreapp3.1\Converter2.runtimeconfig.dev.json
+C:\Users\Лис\Desktop\Converter1\Converter2\bin\Debug\netcoreapp3.1\Converter2.dll
+C:\Users\Лис\Desktop\Converter1\Converter2\bin\Debug\netcoreapp3.1\Converter2.pdb
+C:\Users\Лис\Desktop\Converter1\Converter2\bin\Debug\netcoreapp3.1\ConverterLib1.1.dll
+C:\Users\Лис\Desktop\Converter1\Converter2\bin\Debug\netcoreapp3.1\ConverterLib1.1.pdb
+C:\Users\Лис\Desktop\Converter1\Converter2\obj\Debug\netcoreapp3.1\Converter2.csproj.CopyComplete
+C:\Users\Лис\Desktop\Converter1\Converter2\obj\Debug\netcoreapp3.1\Converter2.dll
+C:\Users\Лис\Desktop\Converter1\Converter2\obj\Debug\netcoreapp3.1\Converter2.pdb
+C:\Users\Лис\Desktop\Converter1\Converter2\obj\Debug\netcoreapp3.1\Converter2.genruntimeconfig.cache

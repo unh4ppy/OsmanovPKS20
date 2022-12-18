@@ -1,0 +1,14 @@
+C:\Users\Лис\Desktop\repa lab\AllLabs\obj\Debug\netcoreapp3.1\AllLabs.csproj.AssemblyReference.cache
+C:\Users\Лис\Desktop\repa lab\AllLabs\obj\Debug\netcoreapp3.1\AllLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лис\Desktop\repa lab\AllLabs\obj\Debug\netcoreapp3.1\AllLabs.AssemblyInfoInputs.cache
+C:\Users\Лис\Desktop\repa lab\AllLabs\obj\Debug\netcoreapp3.1\AllLabs.AssemblyInfo.cs
+C:\Users\Лис\Desktop\repa lab\AllLabs\obj\Debug\netcoreapp3.1\AllLabs.csproj.CoreCompileInputs.cache
+C:\Users\Лис\Desktop\repa lab\AllLabs\bin\Debug\netcoreapp3.1\AllLabs.exe
+C:\Users\Лис\Desktop\repa lab\AllLabs\bin\Debug\netcoreapp3.1\AllLabs.deps.json
+C:\Users\Лис\Desktop\repa lab\AllLabs\bin\Debug\netcoreapp3.1\AllLabs.runtimeconfig.json
+C:\Users\Лис\Desktop\repa lab\AllLabs\bin\Debug\netcoreapp3.1\AllLabs.runtimeconfig.dev.json
+C:\Users\Лис\Desktop\repa lab\AllLabs\bin\Debug\netcoreapp3.1\AllLabs.dll
+C:\Users\Лис\Desktop\repa lab\AllLabs\bin\Debug\netcoreapp3.1\AllLabs.pdb
+C:\Users\Лис\Desktop\repa lab\AllLabs\obj\Debug\netcoreapp3.1\AllLabs.dll
+C:\Users\Лис\Desktop\repa lab\AllLabs\obj\Debug\netcoreapp3.1\AllLabs.pdb
+C:\Users\Лис\Desktop\repa lab\AllLabs\obj\Debug\netcoreapp3.1\AllLabs.genruntimeconfig.cache
